@@ -1,2 +1,3 @@
 # odin-recipes
-html mini project
+html super easy project
+
